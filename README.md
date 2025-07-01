@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mints1104
+# Hi, I'm Mints!
 
 I'm a recent Computer Science Graduate from Wales passionate about:
 - 💻 Java and Android app development
