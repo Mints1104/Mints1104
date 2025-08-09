@@ -16,4 +16,4 @@ I'm a recent Computer Science Graduate from Wales passionate about:
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-181717?style=flat&logo=scikit-learn)
 
 ## 📈 GitHub Stats
-![Mints1104's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mints1104&show_icons=true&theme=tokyonight)
+![Mints1104's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mints1104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
