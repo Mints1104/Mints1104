@@ -15,5 +15,9 @@ I'm a recent Computer Science Graduate from Wales passionate about:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-181717?style=flat&logo=tensorflow)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-181717?style=flat&logo=scikit-learn)
 
+## Check my Portfolio!
+[Check out my portfolio](https://github.com/Mints1104/New-Portfolio)
+
+
 ## 📈 GitHub Stats
 ![Mints1104's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mints1104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
