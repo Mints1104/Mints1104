@@ -1,19 +1,10 @@
 # Hi, I'm Mints!
 
-I'm a recent Computer Science Graduate from Wales passionate about:
-- 💻 Java and Android app development
-- 🌐 Learning JavaScript and React
-- 🧠 Improving problem-solving skills & algorithms
-- 🤖 Exploring Machine Learning & AI
-
-## 🚀 Tech I Use
-![Java](https://img.shields.io/badge/-Java-181717?style=flat&logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=flat&logo=kotlin)
-![Python](https://img.shields.io/badge/-Python-181717?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-181717?style=flat&logo=react)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-181717?style=flat&logo=tensorflow)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-181717?style=flat&logo=scikit-learn)
+I'm a recent Computer Science graduate with experience in 
+- Building fullstack applications (using React & JS/TS)
+- Building Android applications using Kotlin
+- Backend development in Java (with experience in libraries such as Springboot)
+- Machine Learning & AI
 
 <a href="https://mints1104-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Check out my portfolio</a>
 
