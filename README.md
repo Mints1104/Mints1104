@@ -1,4 +1,4 @@
-# Hi, I'm Mints!
+# Hi, I'm Mints/Harun!
 
 I'm a recent Computer Science graduate with experience in 
 - Building fullstack applications (using React & JS/TS)
